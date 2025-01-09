@@ -18,3 +18,4 @@ ENV NODE_ENV=production
 
 # Run app.js when the container launches
 CMD ["node", "app.js"]
+
