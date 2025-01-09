@@ -1,0 +1,13 @@
+build:
+  docker:
+    web: Dockerfile
+run:
+  web: npm start
+```
+
+This template specifies the build and run instructions for your Heroku app.
+
+In this case, it tells Heroku to:
+
+1. Build the app using the `Dockerfile` in the root of the repository.
+2. Run the app using the `npm start` command
