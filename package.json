@@ -1,0 +1,17 @@
+{
+  "name": "RAK-MD-WhatsApp-Bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot built using the WhatsApp Business API and Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "whatsapp-web.js": "^1.5.1"
+  }
+}
