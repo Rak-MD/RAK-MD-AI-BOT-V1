@@ -32,3 +32,4 @@ A WhatsApp bot built using the WhatsApp Business API and Node.js.
 ## License
 
 * [Provide the license under which the project is released, e.g. "MIT License"]
+
